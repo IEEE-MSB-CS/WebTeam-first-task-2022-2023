@@ -54,7 +54,7 @@
   - if there is any problems ask me.
   - there is no creativity limit so do it in the best for you.
   - we need a fullstack app so it will have (Authentecation, database etc...)
-  - for Emad you will work without frame work so there are two videos in the resources that will help you in the routing stuff etc.
+  - for Emad you will work without framework so there are two videos in the resources that will help you in the routing stuff etc.
 
 
 ## Deadline:
